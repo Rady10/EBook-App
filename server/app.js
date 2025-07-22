@@ -8,7 +8,7 @@ const cartRoutes = require('./routes/cart');
 const wishlistRoutes = require('./routes/wishlist');
 
 const PORT = 3000;
-const MONGODB_URI = 'mongodb+srv://Rady:Rady1234@shopcluster.qum9xaa.mongodb.net/ebook?retryWrites=true&w=majority&appName=ShopCluster';
+const MONGODB_URI = 'Database-URL';
 
 
 const app = express();
